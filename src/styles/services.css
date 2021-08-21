@@ -1,0 +1,11 @@
+.services img{
+  width: 100%;
+}
+
+.services .services-technology-images img{
+  filter: brightness(75%);
+}
+
+.services .services-technology-images img:hover{
+filter: brightness(100%);
+}

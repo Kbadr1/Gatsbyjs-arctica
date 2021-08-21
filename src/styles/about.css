@@ -1,0 +1,11 @@
+.about img{
+  width: 100%;
+}
+
+.about .about-technology-images img{
+    filter: brightness(75%);
+}
+
+.about .about-technology-images img:hover{
+  filter: brightness(100%);
+}

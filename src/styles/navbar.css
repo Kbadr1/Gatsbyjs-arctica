@@ -1,0 +1,31 @@
+.navbar {
+  background-color: transparent !important;
+}
+
+.navbar .navbar-brand{
+  color: white;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.navbar .nav-item  .nav-link{
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.navbar  .nav-item .nav-link:hover{
+  color: #F5A623;
+}
+.navbar .nav-item .contact-button{
+  color: black !important;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.active{
+  color: #F5A623 !important;
+} 
+

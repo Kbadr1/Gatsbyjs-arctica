@@ -1,0 +1,11 @@
+.home img{
+  width: 100%;
+}
+
+.home .home-technology-images img{
+    filter: brightness(75%);
+}
+
+.home .home-technology-images img:hover{
+  filter: brightness(100%);
+}
